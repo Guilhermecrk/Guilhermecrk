@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Guilherme Almeida
+<span class="dancing-script-<uniquifier>">Guilherme Almeida</span>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galmeid7/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
