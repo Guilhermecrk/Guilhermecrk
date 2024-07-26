@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+</style>
+
 <span class="dancing-script-<uniquifier>">Guilherme Almeida</span>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galmeid7/)
